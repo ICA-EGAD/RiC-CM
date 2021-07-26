@@ -10,7 +10,7 @@ RiC-CM 0.2 is available here:
 **This repository is used to collect feedback on RiC-CM 0.2**. To create a new issue, you need to have a GitHub account. 
 
 Alternatively you can send your feedback directly to egad@ica.org, using the table that is downloadable from the call for comments page:
-([https://www.ica.org/en/call-for-comments-on-ica-ric-cm-02](https://www.ica.org/en/call-for-comments-on-ica-ric-cm-02)).
+[https://www.ica.org/en/call-for-comments-on-ica-ric-cm-02](https://www.ica.org/en/call-for-comments-on-ica-ric-cm-02).
 
 **RiC-CM 0.2 comes with an OWL ontology, RiC-O.**
 The latest official version of RiC-O is **RiC-O 0.2**, that was published in February 2021, and conforms to RC-CM 0.2.
