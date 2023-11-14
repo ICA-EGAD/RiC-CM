@@ -1,14 +1,14 @@
 # Records in Contexts-Conceptual Model (RiC-CM) GitHub repository
 
-This is the public GitHub repository that holds the documents and information on ICA Records in Contexts Conceptual Model (RiC-CM).
+This is the public GitHub repository that holds the documents and information on **ICA Records in Contexts Conceptual Model (RiC-CM)**.
 
-RiC-CM is a high-level conceptual model that focuses on intellectually identifying and describing
+RiC-CM is a **high-level conceptual model that focuses on intellectually identifying and describing
 records, the people that created and use(d) them, and the activities pursued by the people that
-the records both facilitate and document.
+the records both facilitate and document**.
 
-**The latest version of RiC-CM is RiC-CM 1.0-beta, that was published by ICA/EGAD on November 14, 2023**. it is available in the current-version subfloder of this repository.
+**The latest version of RiC-CM is RiC-CM 1.0-beta, that was published by ICA/EGAD on November 14, 2023**. It is available in the current-version subfolder of this repository.
 
-The previous version, RiC-CM 0.2 is available in the previouis-versions subfolder of this repository, and also there: 
+The previous version, RiC-CM 0.2 is available in the previous-versions subfolder of this repository, and also there: 
 [https://www.ica.org/sites/default/files/ric-cm-02_july2021_0.pdf](https://www.ica.org/sites/default/files/ric-cm-02_july2021_0.pdf).
 
 **This repository is used to collect feedback on RiC-CM**. To create a new issue, you need to have a GitHub account. 
