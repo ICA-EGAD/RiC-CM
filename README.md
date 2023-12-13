@@ -6,9 +6,11 @@ RiC-CM is a **high-level conceptual model that focuses on intellectually identif
 records, the people that created and use(d) them, and the activities pursued by the people that
 the records both facilitate and document**.
 
-**The latest version of RiC-CM is RiC-CM 1.0, that was published by ICA/EGAD on November 30, 2023**. It is available in the current-version subfolder of this repository.
+**The latest version of RiC-CM is RiC-CM 1.0, that was published by ICA/EGAD on November 30, 2023**. 
 
-The previous versions of RiC-CM are available in the previous-versions subfolder of this repository.
+This version is **available for download [here](https://github.com/ICA-EGAD/RiC-CM/releases/tag/v1.0)**.
+
+It is also available in the current-version subfolder of this repository. The previous versions of RiC-CM are available in the previous-versions subfolder of this repository.
 
 **This repository is used to collect feedback on RiC-CM**. To create a new issue, you need to have a GitHub account. 
 
