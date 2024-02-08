@@ -1,4 +1,4 @@
-# Records in Contexts-Conceptual Model (RiC-CM) GitHub repository
+11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111# Records in Contexts-Conceptual Model (RiC-CM) GitHub repository
 
 This is the public GitHub repository that holds the documents and information on **ICA Records in Contexts Conceptual Model (RiC-CM)**.
 
@@ -22,6 +22,5 @@ RiC-CM 1.0 comes with:
 - the **Foundations of Archival Description, RiC-FAD**.
 The latest official version of RiC-FAD is **RiC-FAD 1.0**, that was published on November 30, 2023. This version is available here: [https://github.com/ICA-EGAD/RiC-FAD](https://github.com/ICA-EGAD/RiC-FAD).
 - an **OWL ontology, RiC-O.**
-The latest official version of RiC-O is **RiC-O 1.0-beta**, that was published on November 14, 2023, and conforms to RiC-CM 1.0-beta. This public version is available here: [https://github.com/ICA-EGAD/RiC-O](https://github.com/ICA-EGAD/RiC-O). **RiC-O 1.0 will be released in mid-December 2023.**
-
+The latest official version of RiC-O is **RiC-O 1.0**, that was published on December 30, 2023, and conforms to RiC-CM 1.0. This public version is available here: [https://github.com/ICA-EGAD/RiC-O](https://github.com/ICA-EGAD/RiC-O). 
 
