@@ -1,4 +1,4 @@
-11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111# Records in Contexts-Conceptual Model (RiC-CM) GitHub repository
+# Records in Contexts-Conceptual Model (RiC-CM) GitHub repository
 
 This is the public GitHub repository that holds the documents and information on **ICA Records in Contexts Conceptual Model (RiC-CM)**.
 
