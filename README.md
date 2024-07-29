@@ -10,7 +10,16 @@ the records both facilitate and document**.
 
 This version is **available for download [here](https://github.com/ICA-EGAD/RiC-CM/releases/tag/v1.0.1)**.
 
-It is also available in the current-version subfolder of this repository. The previous versions of RiC-CM are available in the previous-versions subfolder of this repository.
+It is also available in the 'current-version' subfolder of this repository. 
+
+
+The previous versions of RiC-CM are available in the 'previous-versions subfolder of this repository.
+
+This repository also contains, in the 'feedback' subfolder, the following documents:
+
+- the consolidated feedback created by Kat Timms, former member of EGAD, from the comments received in 2016-2017 on RiC-CM 0.1 (PDF file);
+- an overview of this consolidated feedback presented by Kat Timms in October 2027 during a conference in Rome (slides in PDF format);
+- an Excel file that contains all the comments received about RiC-CM 0.2 with the answers provided by ICA-EGAD.
 
 **This repository is used to collect feedback on RiC-CM**. To create a new issue, you need to have a GitHub account. 
 
