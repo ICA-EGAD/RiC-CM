@@ -18,7 +18,7 @@ The previous versions of RiC-CM are available in the 'previous-versions subfolde
 This repository also contains, in the 'feedback' subfolder, the following documents:
 
 - the consolidated feedback created by Kat Timms, former member of EGAD, from the comments received in 2016-2017 on RiC-CM 0.1 (PDF file);
-- an overview of this consolidated feedback presented by Kat Timms in October 2027 during a conference in Rome (slides in PDF format);
+- an overview of this consolidated feedback presented by Kat Timms in October 2017 during a conference in Rome (slides in PDF format);
 - an Excel file that contains all the comments received about RiC-CM 0.2 with the answers provided by ICA-EGAD.
 
 **This repository is used to collect feedback on RiC-CM**. To create a new issue, you need to have a GitHub account. 
