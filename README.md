@@ -8,7 +8,7 @@ the records both facilitate and document**.
 
 **The latest version of RiC-CM is RiC-CM 1.0.1, that was published by ICA/EGAD on September 30, 2026**. 
 
-This version is **available for download [here](https://github.com/ICA-EGAD/RiC-CM/releases/tag/v1.0.1)**.
+This version is **available for download [here](https://github.com/ICA-EGAD/RiC-CM/releases/tag/1.0.1)**.
 
 It is also available in the 'current-version' subfolder of this repository. 
 
